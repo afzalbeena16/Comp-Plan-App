@@ -1,3 +1,8 @@
+****Live demo:****    https://beena-comp-plan.streamlit.app/
+
+
+
+
 # Compensation Plan App
 
 A multi-agent analytics app that tracks **monthly quota attainment, quota pacing, risk of missing quota, and projected commission** for a sales team, shown in an interactive Streamlit dashboard.
