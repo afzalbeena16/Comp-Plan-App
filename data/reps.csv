@@ -1,0 +1,13 @@
+rep_id,rep_name,role,region,manager,annual_variable_ote,plan_profile
+R001,Ava Thompson,Account Executive,West,Daniel Reyes,60000,star
+R002,Liam Carter,Account Executive,West,Daniel Reyes,60000,steady
+R003,Sofia Martinez,Account Executive,West,Daniel Reyes,55000,slipping
+R004,Noah Patel,Senior Account Executive,Central,Hannah Brooks,80000,steady
+R005,Emma Wilson,Account Executive,Central,Hannah Brooks,55000,star
+R006,Ethan Nguyen,Account Executive,Central,Hannah Brooks,55000,struggling
+R007,Olivia Brown,Senior Account Executive,East,Marcus Lee,80000,steady
+R008,Mason Kim,Account Executive,East,Marcus Lee,60000,lumpy
+R009,Isabella Garcia,Account Executive,East,Marcus Lee,60000,star
+R010,Lucas Ahmed,SDR-to-AE (Ramping),East,Marcus Lee,40000,ramping
+R011,Mia Johnson,Account Executive,South,Priya Shah,55000,slipping
+R012,James Okafor,Account Executive,South,Priya Shah,55000,steady

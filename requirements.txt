@@ -1,0 +1,7 @@
+pandas>=2.1
+numpy>=1.26
+streamlit>=1.66
+plotly>=5.20
+pytest>=8.0
+# Optional: AI-written team summary (set ANTHROPIC_API_KEY)
+# anthropic>=0.40
